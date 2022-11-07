@@ -1,0 +1,4 @@
+node_modules
+.devcontainer
+dataset.csv
+/src/assets/dataset.json

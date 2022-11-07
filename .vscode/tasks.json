@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "wordle-solver: build",
+			"detail": "vite build"
+		},
+		{
+			"type": "npm",
+			"script": "dev",
+			"problemMatcher": [],
+			"label": "wordle-solver: dev",
+			"detail": "vite",
+			"isBackground": true
+		}
+	]
+}
